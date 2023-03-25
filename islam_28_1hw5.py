@@ -1,0 +1,2 @@
+import logis
+print(logis)

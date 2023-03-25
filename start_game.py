@@ -1,0 +1,2 @@
+import logis
+logis.cosino()
